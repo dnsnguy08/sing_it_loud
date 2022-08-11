@@ -1,0 +1,26 @@
+<section>
+    <div class="container">
+        <div class="image is-fullwidth">
+            <figure class="image">
+                <img src="images/hero-banner.jpg" alt="wallpaper with music notes and a guitar">
+            </figure>
+        </div>
+        <div class="content is-overlay py-6">
+            <br /><br /><br /><br /><br />
+            <div class="hero is-success is-flex" id="hero-banner">
+                <h1 class="title is-1 is-primary has-text-centered has-text-weight-bold py-4">Welcome to Sing it Loud!</h1>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+{{#each albums as |album|}}
+
+{{> album-info album }}
+</div>
+
+{{else}}
+<h6 class="pb-4 has-text-centered is-italic">there are currently no album posts</h6>
+{{/each}}
