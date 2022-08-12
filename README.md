@@ -1,4 +1,4 @@
-# Pokemon Battle!
+# Sing It Loud!
 
 ## Table of contents
 
