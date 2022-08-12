@@ -110,7 +110,6 @@ Have a quality README (with unique name, description, technologies used, screens
 - HTML
 - CSS
 - Javascript
-- JQuery
 - [Bulma](https://bulma.io/documentation/)
 - [Heroku](https://id.heroku.com/)
 ### What was learned
@@ -119,7 +118,7 @@ The team was able to work colloboratively in an AGILE scrum setting and work tow
 ## License
 MIT License
 
-Copyright (c) [2022] [Dennis Nguyen](https://github.com/dnsnguy08), [Daniel Holloway](https://github.com/VendettiStudios), [Asha Chakre](https://github.com/ashachakre0906), [Michael Harris](https://github.com/Snufalufakis), [Lilian Kim](https://github.com/liliankim)
+Copyright (c) [2022] [Dennis Nguyen](https://github.com/dnsnguy08), [Leo Ho](), [Justin Yang]()
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
