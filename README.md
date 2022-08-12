@@ -93,10 +93,8 @@ Have a quality README (with unique name, description, technologies used, screens
     
 ### Screenshot
 
-![screenshot1](assets/images/screenshot.png)
-![screenshot2](assets/images/screenshot_1.png)
-![screenshot3](assets/images/screenshot_1.png)
-![screenshot4](assets/images/screenshot_1.png)
+![homepage](public/images/homepage.png)
+![dashboard](public/images/dashboard.png)
 
 
 ### Links
@@ -110,6 +108,9 @@ Have a quality README (with unique name, description, technologies used, screens
 - HTML
 - CSS
 - Javascript
+- MySQL
+- Sequelize.js
+- Handlebars.js for templating
 - [Bulma](https://bulma.io/documentation/)
 - [Heroku](https://id.heroku.com/)
 ### What was learned
