@@ -100,6 +100,7 @@ Have a quality README (with unique name, description, technologies used, screens
 ### Links
 
 - [Github URL here](https://github.com/dnsnguy08/sing_it_loud)
+- [Commit History](https://github.com/justiny8/Project-2-music)
 - [Live webpage URL](https://sing-it-loud.herokuapp.com/)
 
 ## Process
