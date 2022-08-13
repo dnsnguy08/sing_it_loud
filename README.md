@@ -52,33 +52,24 @@ Use Node.js and Express.js to create a RESTful API.
     SO THAT I can have fun and learn
 
 ### Acceptance Criteria
-    Use Node.js and Express.js to create a RESTful API.
+    GIVEN I am on a music share forum
+    WHEN I land on the page
+    THEN I am presented with the app name, nav, and existing blog posts
+    WHEN I click the ‘login’ button
+    THEN I am presented with the login page or option to signup
+    WHEN I click on the signup button
+    THEN I am presented with the signup page with user input criteria
+    WHEN I signup or login
+    THEN I am presented with the user's dashboard
+    WHEN I am in the user's dashboard
+    THEN I am given options to create a post, or edit existing posts
+    WHEN a post is created
+    THEN the username, date created, and user comments are logged on the post
+    WHEN I am logged in
+    THEN I can interact with posts on the Homepage by adding comments
+    WHEN a posts has comments
+    THEN the comments are counted on the post
 
-    Use Handlebars.js as the templating engine.
-
-    Use MySQL and the Sequelize ORM for the database.
-
-    Have both GET and POST routes for retrieving and adding new data.
-
-    Be deployed using Heroku (with data).
-
-    Use at least one new library, package, or technology that we haven’t discussed.
-
-    Have a polished UI.
-
-    Be responsive.
-
-    Be interactive (i.e., accept and respond to user input).
-
-    Have a folder structure that meets the MVC paradigm.
-
-    Include authentication (express-session and cookies).
-
-    Protect API keys and sensitive information with environment variables.
-
-    Have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id naming conventions, indentation, quality comments, etc.).
-
-    Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
 ## Installation
   This app was developed and tested using MySQL. Please refer to: [MySQL documentation](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/)
